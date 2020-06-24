@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.18.4
+FROM k8s.gcr.io/etcd:3.4.3-0
 MAINTAINER alexliu<8811120@qq.com>
